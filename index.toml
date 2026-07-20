@@ -1,0 +1,121 @@
+# Pinx Package Repository
+
+[[package]]
+name = "bash"
+version = "5.2.37"
+description = "GNU Bourne Again SHell"
+recipe = "recipes/bash.toml"
+
+[[package]]
+name = "binutils"
+version = "2.45"
+description = "GNU Binary Utilities"
+recipe = "recipes/binutils.toml"
+
+[[package]]
+name = "cmake"
+version = "4.1.0"
+description = "Cross-platform build system"
+recipe = "recipes/cmake.toml"
+
+[[package]]
+name = "coreutils"
+version = "9.8"
+description = "GNU Core Utilities"
+recipe = "recipes/coreutils.toml"
+
+[[package]]
+name = "curl"
+version = "8.16.0"
+description = "Command line tool for transferring data"
+recipe = "recipes/curl.toml"
+
+[[package]]
+name = "gcc"
+version = "15.3.0"
+description = "GNU Compiler Collection"
+recipe = "recipes/gcc.toml"
+
+[[package]]
+name = "git"
+version = "2.51.0"
+description = "Distributed version control system"
+recipe = "recipes/git.toml"
+
+[[package]]
+name = "glibc"
+version = "2.42"
+description = "GNU C Library"
+recipe = "recipes/glibc.toml"
+
+[[package]]
+name = "grep"
+version = "3.12"
+description = "GNU grep"
+recipe = "recipes/grep.toml"
+
+[[package]]
+name = "make"
+version = "4.4.1"
+description = "GNU Make"
+recipe = "recipes/make.toml"
+
+[[package]]
+name = "meson"
+version = "1.9.0"
+description = "Meson build system"
+recipe = "recipes/meson.toml"
+
+[[package]]
+name = "musl"
+version = "1.2.5"
+description = "musl C standard library"
+recipe = "recipes/musl.toml"
+
+[[package]]
+name = "ncurses"
+version = "6.5"
+description = "Terminal handling library"
+recipe = "recipes/ncurses.toml"
+
+[[package]]
+name = "ninja"
+version = "1.13.1"
+description = "Small build system"
+recipe = "recipes/ninja.toml"
+
+[[package]]
+name = "openssl"
+version = "3.6.0"
+description = "TLS and cryptography library"
+recipe = "recipes/openssl.toml"
+
+[[package]]
+name = "pkgconf"
+version = "2.5.1"
+description = "pkg-config implementation"
+recipe = "recipes/pkgconf.toml"
+
+[[package]]
+name = "python"
+version = "3.13.7"
+description = "Python programming language"
+recipe = "recipes/python.toml"
+
+[[package]]
+name = "sed"
+version = "4.9"
+description = "GNU stream editor"
+recipe = "recipes/sed.toml"
+
+[[package]]
+name = "tar"
+version = "1.35"
+description = "GNU tar archive utility"
+recipe = "recipes/tar.toml"
+
+[[package]]
+name = "wget"
+version = "1.25.0"
+description = "Network downloader"
+recipe = "recipes/wget.toml"
